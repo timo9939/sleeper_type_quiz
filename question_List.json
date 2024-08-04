@@ -1,6 +1,6 @@
 {
     "questions":[{
-        "question":"What time do you usually wake up without an alarm",
+        "question":"What time do you usually wake up without an alarm?",
         "options":[
             {"text":"Before 6 AM", "value":4},
             { "text": "Between 6 AM and 8 AM", "value": 3 },
