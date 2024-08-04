@@ -1,0 +1,29 @@
+{
+    "questions":[{
+        "question":"What time do you usually wake up without an alarm",
+        "options":[
+            {"text":"Before 6 AM", "value":4},
+            { "text": "Between 6 AM and 8 AM", "value": 3 },
+                { "text": "Between 8 AM and 10 AM", "value": 2 },
+                { "text": "After 10 AM", "value": 1 }
+            ]
+        },
+        {
+            "question": "When do you feel most energetic and productive?",
+            "options": [
+                { "text": "Early morning", "value": 4 },
+                { "text": "Late morning", "value": 3 },
+                { "text": "Afternoon", "value": 2 },
+                { "text": "Evening", "value": 1 }
+            ]
+        },
+        {
+            "question": "What time do you usually go to bed?",
+            "options": [
+                { "text": "Before 9 PM", "value": 4 },
+                { "text": "Between 9 PM and 11 PM", "value": 3 },
+                { "text": "Between 11 PM and 1 AM", "value": 2 },
+                { "text": "After 1 AM", "value": 1 }
+            ]
+    }]
+    }
