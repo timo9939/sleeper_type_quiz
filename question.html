@@ -4,16 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sleeper Types Quiz</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <section class="container">
-        <h1>What time do you usually wake up without an alarm?</h1>
+        <h1 id="question_title">What time do you usually wake up without an alarm?</h1>
     </section>
-    <form>
-        <div id="questionContainer" class="question_container">
 
-        </div>
+    <form>
+        <div id="AnsContainer" class="answer_container">
+<button id="answer_choice1" class="answer_choice_class">Before 6 AM</button>
+  
         <button id="nextButton" onclick="nextQuestion()">Next</button>
     </form>
+    <script src="script.js"></script>
 </body>
 </html>

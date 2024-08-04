@@ -10,3 +10,16 @@
 body{
     background-color: rgba(63, 111, 231, 0.653);
 }
+
+#question_title{
+    background-color: aliceblue;
+    color: purple;
+    padding: 5vw 5vw;
+    border-radius: 1vw;
+}
+
+.answer_choice_class{
+    height: 30vw;
+    width: 30vw;
+    clip-path: circle(49% at 50% 50%);
+}
